@@ -1,14 +1,4 @@
 
-
-## LINK TABLEU:
-
-
-https://public.tableau.com/app/profile/irsyad.rafif/viz/Milestone1_17073802602180/AirbnbMilestone?publish=yes
-
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1NMiPeUr)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13694687&assignment_repo_type=AssignmentRepo)
-
 # Introduction
 
 The goal of this project is to analyze a New York Airbnb dataset (from kagle) with the aim to create a marketing campaign and analyze potential revenue we can gain from it. The project involves data analysis using visualization, descriptive, and inferential statistics to gain insights from the dataset. The project follows a structured framework encompassing background, problem formulation, and 'SMART' business understanding to stay on the right trajectory to achieve its goals.
